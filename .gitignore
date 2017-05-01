@@ -1,4 +1,6 @@
 .DS_Store
 *.swp
 *.swo
+*.bak
 bots/caches/*
+*.pyc

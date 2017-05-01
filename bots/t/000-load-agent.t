@@ -8,5 +8,6 @@ use Test::More;
 
 require_ok( 'Agent' );
 require_ok( 'Sites::YuanchenWork');
+require_ok( 'Sites::YizaoyiwanCom');
 
 done_testing();
